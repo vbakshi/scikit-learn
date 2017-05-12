@@ -1049,6 +1049,8 @@ class NMF(BaseEstimator, TransformerMixin):
 
     The objective function is minimized with an alternating minimization of W
     and H.
+    
+    Blbalbalbal
 
     Read more in the :ref:`User Guide <NMF>`.
 
